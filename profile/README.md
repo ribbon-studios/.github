@@ -1,4 +1,5 @@
-_**NOTE: All of our active repos are being migrated over to https://codeberg.org/ribbon-studios**_
+_**We no longer use GitHub for development.**_<br/>
+_**If you'd like to continue following our repos consider checking out our [codeberg](https://codeberg.org/ribbon-studios) organization!**_
 
 ### Ribbon Studios
 
